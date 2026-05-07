@@ -20,12 +20,7 @@ st.caption("A highly advanced feline reasoning chatbot.")
 # Session state
 # -----------------------------
 if "messages" not in st.session_state:
-    st.session_state.messages = [
-        {
-            "role": "assistant",
-            "content": "meow",
-        }
-    ]
+    st.session_state.messages = []
 
 
 # -----------------------------
