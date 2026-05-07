@@ -7,13 +7,13 @@ import streamlit as st
 # Page setup
 # -----------------------------
 st.set_page_config(
-    page_title="MeowGPT",
+    page_title="CatGPT",
     page_icon="🐾",
     layout="centered",
 )
 
-st.title("🐾 MeowGPT")
-st.caption("A highly advanced feline reasoning chatbot.")
+st.title("🐾 CatGPT")
+st.caption("Unlimited messages 27/7.")
 
 
 # -----------------------------
